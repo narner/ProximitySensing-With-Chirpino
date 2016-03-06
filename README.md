@@ -4,4 +4,4 @@ A simple project that sends information-carrying "chirps" with the [Chirpino Lib
 
 The proximity sensor used in this project is an [Infrared Proximity Sensor from Sharp](https://www.sparkfun.com/products/242). 
 
-[Alt Text](https://github.com/narner/ProximitySensing-With-Chirpino/raw/master/ProximityChirp-Schematic.png)
+![Alt Text](https://github.com/narner/ProximitySensing-With-Chirpino/raw/master/ProximityChirp-Schematic.png)
